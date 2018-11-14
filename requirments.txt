@@ -2,8 +2,4 @@ Flask==1.0.2
 gunicorn==19.9.0
 Jinja2==2.10
 virtualenv==16.0.0
-<<<<<<< HEAD
 Werkzeug==0.14.1
-=======
-Werkzeug==0.14.1
->>>>>>> d8eb24ede560a42b010465ad0fe51d5ee3659836
